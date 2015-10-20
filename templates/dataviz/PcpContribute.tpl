@@ -1,4 +1,3 @@
-{crmTitle string="PCP Contributions"}
 <h1><span id="nbcontrib"></span> Contributions for a total of <span id="amount"></span></h1>
 <div id="type" style="width:1000px;">
     <strong>Campaigns</strong>
